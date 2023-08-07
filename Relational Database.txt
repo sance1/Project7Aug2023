@@ -1,0 +1,25 @@
+Relational Database (SQL Query, 1-1/ 1-n/ n-n) 
+
+1.Relational (1-1)
+Contoh Query :
+SELECT Customers.Name, Orders.OrderDate
+FROM Customers
+JOIN Orders ON Customers.CustomerID = Orders.CustomerID;
+
+2.Relational (1-n)
+Contoh Query :
+SELECT Customers.Name, Orders.OrderDate
+FROM Customers
+LEFT JOIN Orders ON Customers.CustomerID = Orders.CustomerID;
+
+3.Relational (n-n)
+Contoh Query :
+SELECT Orders.OrderDate, Products.ProductName
+FROM Orders
+JOIN OrderItems ON Orders.OrderID = OrderItems.OrderID
+JOIN Products ON OrderItems.ProductID = Products.ProductID;
+
+
+
+
+
