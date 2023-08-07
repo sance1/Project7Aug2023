@@ -7,3 +7,7 @@ Name(nvarchar(50), null)
 Department(nvarchar(50), null)
 
 3.Change your database connection in "appsetting.json" file
+
+
+Note
+Target framework .NET 6.0
