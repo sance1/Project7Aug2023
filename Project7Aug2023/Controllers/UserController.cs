@@ -43,7 +43,7 @@ namespace Project7Aug2023.Controllers
             }    
         }
 
-        // Data local
+        // Local data for testing without database
         private static List<User> users = new List<User>
         {
             new User { Id = 1, Username = "user1", Email = "user1@example.com" },
