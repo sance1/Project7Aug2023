@@ -1,8 +1,9 @@
 
-Create database with name “EmployeDB”
-Create table “Employee” with design
+1.Create database with name “EmployeDB”
+2.Create table “Employee” with design
 
 Id(PK,int,not null)
 Name(nvarchar(50), null)
 Department(nvarchar(50), null)
 
+3.Change your database connection in "appsetting.json" file
