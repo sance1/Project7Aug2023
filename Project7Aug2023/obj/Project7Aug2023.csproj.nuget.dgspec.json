@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sanceaenulyakin/Projects/Project7Aug2023/Project7Aug2023/Project7Aug2023.csproj": {}
+    "/Users/sanceaenulyakin/Documents/Project/NET/Project7Aug2023/Project7Aug2023/Project7Aug2023.csproj": {}
   },
   "projects": {
-    "/Users/sanceaenulyakin/Projects/Project7Aug2023/Project7Aug2023/Project7Aug2023.csproj": {
+    "/Users/sanceaenulyakin/Documents/Project/NET/Project7Aug2023/Project7Aug2023/Project7Aug2023.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sanceaenulyakin/Projects/Project7Aug2023/Project7Aug2023/Project7Aug2023.csproj",
+        "projectUniqueName": "/Users/sanceaenulyakin/Documents/Project/NET/Project7Aug2023/Project7Aug2023/Project7Aug2023.csproj",
         "projectName": "Project7Aug2023",
-        "projectPath": "/Users/sanceaenulyakin/Projects/Project7Aug2023/Project7Aug2023/Project7Aug2023.csproj",
+        "projectPath": "/Users/sanceaenulyakin/Documents/Project/NET/Project7Aug2023/Project7Aug2023/Project7Aug2023.csproj",
         "packagesPath": "/Users/sanceaenulyakin/.nuget/packages/",
-        "outputPath": "/Users/sanceaenulyakin/Projects/Project7Aug2023/Project7Aug2023/obj/",
+        "outputPath": "/Users/sanceaenulyakin/Documents/Project/NET/Project7Aug2023/Project7Aug2023/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sanceaenulyakin/.nuget/NuGet/NuGet.Config"

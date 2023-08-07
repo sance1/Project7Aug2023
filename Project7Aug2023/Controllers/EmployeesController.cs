@@ -36,7 +36,7 @@ namespace Project7Aug2023.Controllers
 
         public IActionResult GetEmployeeById(int id)
         {
-            var employee = _repository.GetEmployeesById(id);f
+            var employee = _repository.GetEmployeesById(id);
             return Content(JsonConvert.SerializeObject(employee), "application/json");
         }
         public async Task<IActionResult> AddOrUpdateEmployee(Employee obj)

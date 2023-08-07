@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uTvMlNnp/D/PfyUVs8BhLAjElzEVL7z5L1uatdWx5hhJZXaOcrK3xr1haWkGII+vHjn7YKCaBYIfyIa2P7v+9Q==",
+  "dgSpecHash": "8J+LxxFau9+bkNTRqSGqOH1xw4HVegUrFb/Pv6uZ1iL8T/Il9Jp3ISHUAmVlq+9opVwv/BlP4Mu+e/SkuOGIiw==",
   "success": true,
-  "projectFilePath": "/Users/sanceaenulyakin/Projects/Project7Aug2023/Project7Aug2023/Project7Aug2023.csproj",
+  "projectFilePath": "/Users/sanceaenulyakin/Documents/Project/NET/Project7Aug2023/Project7Aug2023/Project7Aug2023.csproj",
   "expectedPackageFiles": [
     "/Users/sanceaenulyakin/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",
     "/Users/sanceaenulyakin/.nuget/packages/azure.identity/1.6.0/azure.identity.1.6.0.nupkg.sha512",
