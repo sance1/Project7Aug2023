@@ -25,7 +25,7 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Project7Aug2023" expanded="True">
-            <Node name="Project7Aug2023" expanded="True" selected="True">
+            <Node name="Project7Aug2023" expanded="True">
               <Node name="Controllers" expanded="True" />
               <Node name="Data" expanded="True" />
               <Node name="Views" expanded="True">

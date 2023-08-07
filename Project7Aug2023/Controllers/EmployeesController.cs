@@ -55,8 +55,6 @@ namespace Project7Aug2023.Controllers
             return Content(JsonConvert.SerializeObject(employee), "application/json");
         }
 
-
-
     }
 }
 

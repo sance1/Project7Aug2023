@@ -17,7 +17,7 @@ namespace Project7Aug2023.Controllers
             return View();
         }
 
-
+        //For other services
         [HttpPost]
         public ActionResult<bool> Send(Employee emp)
         {
@@ -42,7 +42,8 @@ namespace Project7Aug2023.Controllers
                 }
             }    
         }
-        //test local
+
+        // Data local
         private static List<User> users = new List<User>
         {
             new User { Id = 1, Username = "user1", Email = "user1@example.com" },
@@ -76,7 +77,7 @@ namespace Project7Aug2023.Controllers
             return CreatedAtAction(nameof(GetUser), new { id = newUser.Id }, newUser);
         }
 
-        //[HttpPut("{id}")]
+        [HttpPut]
         public IActionResult UpdateUser(int id, User updatedUser)
         {
             var user = users.Find(u => u.Id == id);
@@ -91,7 +92,7 @@ namespace Project7Aug2023.Controllers
             return NoContent();
         }
 
-        //[HttpDelete("{id}")]
+        [HttpDelete]
         public IActionResult DeleteUser(int id)
         {
             var user = users.Find(u => u.Id == id);

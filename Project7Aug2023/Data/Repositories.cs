@@ -23,8 +23,8 @@ namespace Project7Aug2023.Data
             try
             {
                 var data = _context.Employee
-                       .OrderBy(x => x.Name)
-                       .ToList() ?? new List<Employee>();
+                           .OrderBy(x => x.Name)
+                           .ToList() ?? new List<Employee>();
 
                 return data;
             }
@@ -71,8 +71,6 @@ namespace Project7Aug2023.Data
             return true;
 
         }
-
-
     }
 }
 
