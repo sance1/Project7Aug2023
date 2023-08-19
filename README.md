@@ -3,12 +3,14 @@
 </p>
 
 
-Copy code
 <!-- Judul Proyek -->
 <h1 align="center">Hi 👋, I'm Sance Aenul Yakin</h1>
 
 <!-- Deskripsi Proyek -->
-<p align="center">Professional Web Developer: Bridging Innovation and Functionality</p>
+<p align="center">
+  Professional Web Developer: Bridging Innovation and Functionality <br>
+  On this page you can get a website with an attractive appearance, with a programming language that is easy to understand
+</p>
 
 <!-- Status Build -->
 <p align="center">
@@ -17,63 +19,25 @@ Copy code
   </a>
 </p>
 
-<!-- Daftar Isi -->
-## Daftar Isi
+<!-- Features -->
+## 🧐 Features
 
-- [Gambaran Proyek](#gambaran-proyek)
-- [Fitur Utama](#fitur-utama)
-- [Instalasi](#instalasi)
-- [Penggunaan](#penggunaan)
-- [Kontribusi](#kontribusi)
-- [Lisensi](#lisensi)
-
-<!-- Gambaran Proyek -->
-## Gambaran Proyek
-
-Deskripsi lebih mendalam tentang proyek Anda. Jelaskan tujuan proyek, masalah yang ingin dipecahkan, dan lain-lain.
-
-<!-- Fitur Utama -->
-## Fitur Utama
-
-- Fitur 1: Deskripsi fitur pertama.
-- Fitur 2: Deskripsi fitur kedua.
-- Fitur 3: Deskripsi fitur ketiga.
-
-<!-- Instalasi -->
-## Instalasi
+- [Database](#database)
+  
+<!-- Database -->
+## Database
 
 Langkah-langkah untuk menginstal proyek:
 
-1. Langkah pertama
-2. Langkah kedua
-3. Langkah ketiga
-
-<!-- Penggunaan -->
-## Penggunaan
-
-Cara menggunakan proyek setelah diinstal:
-
-1. Langkah pertama penggunaan
-2. Langkah kedua penggunaan
-3. Langkah ketiga penggunaan
-
-<!-- Kontribusi -->
-## Kontribusi
-
-Jika Anda ingin berkontribusi pada proyek ini, silakan ikuti langkah-langkah berikut:
-
-1. Fork repositori ini
-2. Buat cabang baru (`git checkout -b fitur-baru`)
-3. Lakukan perubahan
-4. Commit perubahan (`git commit -m "Menambahkan fitur baru"`)
-5. Push ke cabang (`git push origin fitur-baru`)
-6. Buat Pull Request
-
-<!-- Lisensi -->
-## Lisensi
-
-[MIT](link-lisensi)
-
+1. Create database with name “EmployeDB”
+2. Change your database connection in "appsetting.json" file
+3. Create table “Employee” with design
+   
+The design table look like the following 
+ - Id(PK,int,not null)
+ - Name(nvarchar(50), null)
+ - Department(nvarchar(50), null)
+   
   
 <br><br><br><br>
 
