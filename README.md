@@ -64,3 +64,9 @@ The design table look like the following
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sance1&show_icons=true&locale=en" alt="sance1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sance1&" alt="sance1" /></p>
+
+
+---
+<p align="center">
+  Developed with ❤️ in Indonesia 🇮🇩 by Sance aenul yakin
+</p>
