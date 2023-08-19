@@ -28,7 +28,7 @@
 <!-- Database -->
 ## Database
 
-Langkah-langkah untuk menginstal proyek:
+Create a database first so that all the facilities of the application can be used
 
 1. Create database with name “EmployeDB”
 2. Change your database connection in "appsetting.json" file
