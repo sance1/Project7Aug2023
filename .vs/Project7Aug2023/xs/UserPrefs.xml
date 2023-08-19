@@ -1,35 +1,38 @@
 ﻿<Properties StartupConfiguration="{FA211829-552F-40D6-92B7-343E23AC9696}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Project7Aug2023/Views/Home/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Project7Aug2023/Program.cs">
     <Files>
       <File FileName="Project7Aug2023/Controllers/HomeController.cs" Line="3" Column="1" />
       <File FileName="Project7Aug2023/Models/User.cs" Line="6" Column="25" />
-      <File FileName="Project7Aug2023/Views/Home/Index.cshtml" Line="65" Column="45" />
-      <File FileName="Project7Aug2023/appsettings.json" Line="3" Column="134" />
-      <File FileName="Project7Aug2023/Data/DataContext.cs" Line="11" Column="32" />
-      <File FileName="Project7Aug2023/Data/IRepositories.cs" Line="8" Column="24" />
-      <File FileName="Project7Aug2023/Data/Repositories.cs" Line="79" Column="1" />
+      <File FileName="Project7Aug2023/Views/Home/Index.cshtml" Line="82" Column="1" />
+      <File FileName="Project7Aug2023/appsettings.json" Line="2" Column="21" />
+      <File FileName="Project7Aug2023/Data/DataContext.cs" Line="10" Column="21" />
+      <File FileName="Project7Aug2023/Data/IRepositories.cs" Line="9" Column="26" />
+      <File FileName="Project7Aug2023/Data/Repositories.cs" Line="57" Column="10" />
       <File FileName="Project7Aug2023/Models/Employee.cs" Line="11" Column="33" />
-      <File FileName="Project7Aug2023/Controllers/EmployeesController.cs" Line="21" Column="13" />
-      <File FileName="Project7Aug2023/Properties/launchSettings.json" Line="1" Column="1" />
-      <File FileName="Project7Aug2023/Program.cs" Line="1" Column="1" />
-      <File FileName="Project7Aug2023/wwwroot/js/home.js" Line="91" Column="2" />
+      <File FileName="Project7Aug2023/Controllers/EmployeesController.cs" Line="42" Column="69" />
+      <File FileName="Project7Aug2023/Properties/launchSettings.json" Line="1" Column="2" />
+      <File FileName="Project7Aug2023/Program.cs" Line="14" Column="1" />
+      <File FileName="Project7Aug2023/wwwroot/js/home.js" Line="71" Column="2" />
       <File FileName="Project7Aug2023/Views/_ViewStart.cshtml" Line="1" Column="1" />
       <File FileName="Project7Aug2023/Views/_ViewImports.cshtml" Line="1" Column="1" />
       <File FileName="Project7Aug2023/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
-      <File FileName="Project7Aug2023/Controllers/UserController.cs" Line="1" Column="1" />
+      <File FileName="Project7Aug2023/Controllers/UserController.cs" Line="26" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Project7Aug2023" expanded="True">
             <Node name="Project7Aug2023" expanded="True">
-              <Node name="Controllers" expanded="True" />
               <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
               <Node name="Views" expanded="True">
                 <Node name="Home" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="js" expanded="True" />
               </Node>
             </Node>
           </Node>
@@ -40,8 +43,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Project7Aug2023 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.Project7Aug2023 PreferredExecutionTarget="/Applications/Safari.app" />
 </Properties>
