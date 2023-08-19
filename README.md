@@ -22,8 +22,8 @@
 <!-- Features -->
 ## 🧐 Features
 
-- [Database](#database)
-- [Contact Me](#contact-me)
+- [Database](#-database)
+- [Contact Me](#-contact-me)
   
 <!-- Database -->
 ## 📦 Database
