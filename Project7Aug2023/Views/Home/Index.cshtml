@@ -1,89 +1,31 @@
-﻿
 @{
-    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_layout1.cshtml";
 }
 
-<style>
-    .main {
-       width:100%;
-       margin-left:20%;
-    }
-</style>
+    <header>
+        <img src="~/images/logo-adare-restaurant.png" alt="Logo For Adare Restaurant">
+    </header>   
 
-<div class="modal" tabindex="-1" id="formDelete" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title">Form Employee</h5>
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-            </div>
-            <div class="modal-body">
-                <div class="form-group mb-3">
-                    <label>Are you sure want to delete this data ?</label>
-                    <input id="idDelete" hidden>
-                </div>
-            </div>
-            <div class="modal-footer mt-2">
-                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                <button type="button" class="btn btn-primary" onclick="deleteEmployee()">Delete data</button>
-            </div>
-        </div>
-    </div>
-</div>
+    <nav>
+        <a href="#">HOME</a>
+        <a href="#">MENU</a>
+        <a href="#">ORDER ONLINE</a>
+        <a href="#">GIFT VOUCHER</a>
+        <a href="#">CATERING</a>
+        <a href="#">CONTACT</a>
+    </nav>
 
-<div class="modal" tabindex="-1" id="formEmployee" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title">Form Employee</h5>
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-            </div>
-            <div class="modal-body">
-                <div class="form-group mb-2">
-                    <label>Name</label>
-                    <input type="text" id="id" class="form-control" hidden>
-                    <input type="text" id="name" class="form-control">
-                    <small class="text-danger mb-4"><i id="errName"></i></small>
-                </div>
-                <div class="form-group mb-2">
-                    <label>Department</label>
-                    <input type="text" id="department" class="form-control">
-                    <small class="text-danger mb-4"><i id="errDepartment"></i></small>
-                </div>
-            </div>
-            <div class="modal-footer mt-2">
-                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                <button type="button" class="btn btn-primary" onclick="save()" >Save changes</button>
-            </div>
-        </div>
-    </div>
-</div>
+    <main>
+        <h1>let's meat</h1>
+        <p>We love sharing good food with great people. We bring over 30 years industry experience and passion to <a href="">Adare.</a>  With a dishes that are carefully designed to bring you a truly satisfying Irish food experience that you are sure to remember. </p>
+        <a href="mailto:sance@mywebsite.com?Subject=Reservation" >MAKE RESERVATION</a>
+        
+    </main>
+
+    <section class="maps">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19403.28296584648!2d-8.801185166686194!3d52.562189672072336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x485b460ddb875af7%3A0xdb34accde986ee58!2sThe%20Carriage%20House%20at%20Adare%20Manor!5e0!3m2!1sid!2sid!4v1691228942754!5m2!1sid!2sid" width="1024" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </section>
+
+    
 
 
-<div class="main">
-
-    <button class="btn btn-primary mb-4 mt-4" type="button" onclick="showModal()">
-        <i class="fa fa-plush"></i>
-        <i class="fa fa-plus"></i> <i class="fa-solid fa-user"></i> Add Employee
-    </button>
-    <br>
-    <small class="text-danger mb-4" style="margin-bottom:10px"><i>*Please connect the database first</i></small>
-    <div id="table" style="width:50%;">
-        <table class="table table-hover table-bordered table-striped">
-            <thead class="table-primary">
-                <tr>
-                    <td>No</td>
-                    <td>Nama</td>
-                    <td>Department</td>
-                    <td>Action</td>
-                </tr>
-            </thead>
-            <tbody id="getTable">
-            </tbody>
-        </table>
-    </div>
-
-</div>
-
-<script type="text/javascript" src="https://cdn.jsdelivr.net/jquery/latest/jquery.min.js"></script>
-<script src="/js/home.js"></script>

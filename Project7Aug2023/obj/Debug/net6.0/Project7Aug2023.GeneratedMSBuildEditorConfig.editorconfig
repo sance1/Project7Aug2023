@@ -15,8 +15,16 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/sanceaenulyakin/Documents/Project/NET/Project7Aug2023/Project7Aug2023
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/sanceaenulyakin/Documents/Project/NET/Project7Aug2023/Project7Aug2023/Views/Home/FormEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Gb3JtRW1wbG95ZWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/sanceaenulyakin/Documents/Project/NET/Project7Aug2023/Project7Aug2023/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sanceaenulyakin/Documents/Project/NET/Project7Aug2023/Project7Aug2023/Views/Shared/_Layout1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQxLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/sanceaenulyakin/Documents/Project/NET/Project7Aug2023/Project7Aug2023/Views/Shared/_ValidationScriptsPartial.cshtml]

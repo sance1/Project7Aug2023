@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WakDBAGwIltyOGySDoAfx7IahIUsJ8vq4IuBiZ8o4GI=",
+  "Hash": "e64tJ3u685+91TrrFJPzmktN/v6VtVBBZOKf+BU4ALs=",
   "Source": "Project7Aug2023",
   "BasePath": "_content/Project7Aug2023",
   "Mode": "Default",
@@ -51,6 +51,23 @@
       "OriginalItemSpec": "/Users/sanceaenulyakin/Documents/Project/NET/Project7Aug2023/Project7Aug2023/obj/Debug/net6.0/scopedcss/projectbundle/Project7Aug2023.bundle.scp.css"
     },
     {
+      "Identity": "/Users/sanceaenulyakin/Documents/Project/NET/Project7Aug2023/Project7Aug2023/wwwroot/.DS_Store",
+      "SourceId": "Project7Aug2023",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/sanceaenulyakin/Documents/Project/NET/Project7Aug2023/Project7Aug2023/wwwroot/",
+      "BasePath": "_content/Project7Aug2023",
+      "RelativePath": ".DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.DS_Store"
+    },
+    {
       "Identity": "/Users/sanceaenulyakin/Documents/Project/NET/Project7Aug2023/Project7Aug2023/wwwroot/css/site.css",
       "SourceId": "Project7Aug2023",
       "SourceType": "Discovered",
@@ -68,6 +85,23 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
+      "Identity": "/Users/sanceaenulyakin/Documents/Project/NET/Project7Aug2023/Project7Aug2023/wwwroot/css/style1.css",
+      "SourceId": "Project7Aug2023",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/sanceaenulyakin/Documents/Project/NET/Project7Aug2023/Project7Aug2023/wwwroot/",
+      "BasePath": "_content/Project7Aug2023",
+      "RelativePath": "css/style1.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/style1.css"
+    },
+    {
       "Identity": "/Users/sanceaenulyakin/Documents/Project/NET/Project7Aug2023/Project7Aug2023/wwwroot/favicon.ico",
       "SourceId": "Project7Aug2023",
       "SourceType": "Discovered",
@@ -83,6 +117,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/Users/sanceaenulyakin/Documents/Project/NET/Project7Aug2023/Project7Aug2023/wwwroot/images/background-adare-restaurant.jpg",
+      "SourceId": "Project7Aug2023",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/sanceaenulyakin/Documents/Project/NET/Project7Aug2023/Project7Aug2023/wwwroot/",
+      "BasePath": "_content/Project7Aug2023",
+      "RelativePath": "images/background-adare-restaurant.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/background-adare-restaurant.jpg"
+    },
+    {
+      "Identity": "/Users/sanceaenulyakin/Documents/Project/NET/Project7Aug2023/Project7Aug2023/wwwroot/images/logo-adare-restaurant.png",
+      "SourceId": "Project7Aug2023",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/sanceaenulyakin/Documents/Project/NET/Project7Aug2023/Project7Aug2023/wwwroot/",
+      "BasePath": "_content/Project7Aug2023",
+      "RelativePath": "images/logo-adare-restaurant.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/logo-adare-restaurant.png"
     },
     {
       "Identity": "/Users/sanceaenulyakin/Documents/Project/NET/Project7Aug2023/Project7Aug2023/wwwroot/js/home.js",
